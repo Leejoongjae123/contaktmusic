@@ -136,7 +136,7 @@ export default function RootLayout({ children }) {
                       className="footer-bottom-section"
                       style={{ display: "flex" }}
                     >
-                      <div>Copyright © Contakmusic | 2024</div>
+                      <div>Copyright © Contaktmusic | 2024</div>
                       <div
                         className="flex justify-center items-center"
                         style={{ opacity: 1 }}
