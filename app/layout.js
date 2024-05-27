@@ -9,7 +9,7 @@ import { NextUIProvider } from "@nextui-org/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Contakmusic",
+  title: "Contaktmusic",
   description: "음원을 보내주세요",
   icons:{
     icon:'images/logo.png'
